@@ -35,7 +35,7 @@ public:
     static void ShowDepositScreen()
     {
         system("cls");
-        _DrawScreenHeader("\t  Deposite Screen");
+        _DrawScreenHeader("\t  Deposit Screen");
 
         string AccountNumber = _ReadAccountNumber();
 
@@ -66,4 +66,5 @@ public:
             cout << "\nOperation was Cancelled!\n";
         }
     }
+
 };
