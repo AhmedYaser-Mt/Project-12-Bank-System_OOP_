@@ -6,7 +6,7 @@
 
 using namespace std;
 
-class clsFindClientScreen : clsScreen
+class clsFindClientScreen :protected clsScreen
 {
     static void _PrintClient(clsBankClient& Client)
     {
