@@ -1,0 +1,15 @@
+# Ignore Visual Studio temporary files
+.vs/
+*.vsidx
+*.user
+*.suo
+*.vscode/
+bin/
+obj/
+Debug/
+Release/
+ipch/
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
