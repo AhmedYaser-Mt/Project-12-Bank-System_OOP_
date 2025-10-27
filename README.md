@@ -60,7 +60,7 @@ Each of these functionalities was added gradually through **9 structured extensi
  ┣ 📁 UI
  ┃ ┗ Screens and Menus
  ┗ main.cpp
-
+```
 
 
 This structure allows easy debugging, testing, and future scalability — reflecting how large enterprise systems are organized.
